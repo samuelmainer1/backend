@@ -1,0 +1,1 @@
+"""Serious Backend application package."""
